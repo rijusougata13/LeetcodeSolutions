@@ -19,11 +19,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bit Manipulation
@@ -58,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
