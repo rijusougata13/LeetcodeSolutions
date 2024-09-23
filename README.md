@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## String
 |  |
 | ------- |
@@ -44,4 +46,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Math
+|  |
+| ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## Counting
+|  |
+| ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## Number Theory
+|  |
+| ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
