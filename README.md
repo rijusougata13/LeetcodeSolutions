@@ -28,10 +28,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,4 +66,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Backtracking
+|  |
+| ------- |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Bitmask
+|  |
+| ------- |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
