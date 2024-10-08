@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2145-grid-game) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
