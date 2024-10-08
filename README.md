@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2145-grid-game](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2145-grid-game) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Counting
 |  |
 | ------- |
