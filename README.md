@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2145-grid-game](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2145-grid-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3651-transformed-array](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/3651-transformed-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0127-word-ladder) |
+## Simulation
+|  |
+| ------- |
+| [3651-transformed-array](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/3651-transformed-array) |
 <!---LeetCode Topics End-->
