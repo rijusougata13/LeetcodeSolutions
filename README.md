@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0665-non-decreasing-array](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0665-non-decreasing-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0015-3sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Hash Table
 |  |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
