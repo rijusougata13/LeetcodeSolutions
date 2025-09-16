@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0665-non-decreasing-array](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0665-non-decreasing-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -24,11 +25,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -38,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
