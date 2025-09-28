@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0238-product-of-array-except-self) |
+| [0605-can-place-flowers](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [0665-non-decreasing-array](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0665-non-decreasing-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
 |  |
