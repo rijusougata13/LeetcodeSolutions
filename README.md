@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
