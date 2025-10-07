@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0665-non-decreasing-array](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0665-non-decreasing-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2145-grid-game](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2145-grid-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -76,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
