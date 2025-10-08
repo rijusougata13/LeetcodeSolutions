@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0665-non-decreasing-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/rijusougata13/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
